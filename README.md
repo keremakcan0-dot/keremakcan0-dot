@@ -3,7 +3,6 @@
 I'm a **Interactive Technologies** student at the **Universitat Politècnica de València (UPV)**,
 
 ### 👨‍💻 About Me
-- 🎓 Interactive Technologies in UPV
 - 💻 Full-Stack & Database Applications
 - 🎨 UX/UI Design & Prototyping
 - 🌍 Gandia, Spain
