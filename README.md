@@ -24,6 +24,3 @@ I'm a **Interactive Technologies** student at the **Universitat Politècnica de 
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white)
 
 ---
-<div align="center">
-  <img src="./matrix-rain.gif" width="100%" alt="Matrix Digital Rain" />
-</div>
