@@ -1,5 +1,4 @@
 
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&color=00FF41&center=true&vCenter=true&width=750&repeat=false&lines=Hello+there%2C+I'm+Kerem+Akcan" alt="Hello there, I'm Kerem Akcan" />
 </div>
@@ -13,18 +12,25 @@ I'm a **Interactive Technologies** student at the **Universitat Politècnica de 
 - 🗣️ Turkish (Native) | English (B2) | Spanish (B2)
 
 ### 🛠️ Technologies & Tools
-**Languages**  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=flat&logo=sqlite&logoColor=white)
 
-**Web**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+**Languages**
 
-**Databases & Hardware**  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,php&theme=dark" height="48" alt="C++, C#, Java, JavaScript, PHP" />
+  <img src="https://api.iconify.design/mdi/database.svg?color=%23A855F7" width="48" height="48" alt="SQL Database" />
+</p>
+
+**Web**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="48" alt="HTML5, CSS3" />
+</p>
+
+**Databases & Hardware**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" height="48" alt="Arduino" />
+  <img src="https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=00FF41" height="48" alt="ESP32" />
+</p>
 
 ---
