@@ -1,4 +1,8 @@
-# Hello there, I'm Kerem Akcan 
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&color=00FF41&center=true&vCenter=true&width=750&repeat=false&lines=Hello+there%2C+I'm+Kerem+Akcan" alt="Hello there, I'm Kerem Akcan" />
+</div>
 
 I'm a **Interactive Technologies** student at the **Universitat Politècnica de València (UPV)**,
 
